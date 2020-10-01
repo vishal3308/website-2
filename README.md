@@ -74,7 +74,7 @@ The above script will index all the docs found in the `/mdx` folder on [Algolia]
 
 Running the script updates some of the meta information about the files (relative paths to files and versions of the doc). For other types of information (i.e. title, subtitle, tags...) you will have to update it yourself.
 
-### Resources
+### Resources you can use
 
 ##### Toolkit
 
